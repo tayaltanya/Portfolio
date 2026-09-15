@@ -78,3 +78,33 @@ text-align:center;
 padding:20px;
 background:#020617;
 }
+.internship {
+  margin-top: 30px;
+  padding: 25px;
+  border-left: 4px solid #333;
+  background: #460ce646;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.internship h3 {
+  margin-bottom: 5px;
+}
+
+.internship h4 {
+  margin-bottom: 5px;
+}
+
+.duration {
+  font-size: 14px;
+  color: #666;
+}
+
+.internship ul {
+  margin-top: 15px;
+  padding-left: 20px;
+}
+
+.internship li {
+  margin-bottom: 8px;
+}

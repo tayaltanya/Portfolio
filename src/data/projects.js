@@ -24,10 +24,10 @@ const projects = [
   },
 
   {
-    title: "Currency Converter",
+    title: "AI-Job-Portal",
     description:
-      "Currency converter using HTML CSS and JavaScript",
-    github:"https://github.com/tayaltanya/Currency-Converter"
+      "Ai job portal is a full stack website with ai integration",
+    github:"https://github.com/tayaltanya/ai-job-portal"
   }
 ];
 

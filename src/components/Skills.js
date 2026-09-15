@@ -5,14 +5,17 @@ function Skills() {
       <h2>Skills</h2>
 
       <div className="skills-grid">
-        <div>HTML</div>
-        <div>CSS</div>
         <div>JavaScript</div>
         <div>React</div>
         <div>Redux</div>
         <div>REST API</div>
         <div>Git</div>
         <div>Node.js</div>
+        <div>Java</div>
+        <div>Data Structure and Algorithms</div>
+        <div>System Design</div>
+        <div>Mern Stack</div>
+        <div>Ai generative</div>
       </div>
     </section>
   );

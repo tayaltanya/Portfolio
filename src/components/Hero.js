@@ -5,18 +5,18 @@ function Hero() {
     <section id="home" className="hero">
       <h1>Hello, I'm Taniya Tayal</h1>
 
-      <h2>Frontend Developer | React Developer | Software Engineer</h2>
+      <h2>Full Stack Developer | Software Engineer</h2>
 
       <p>
         I build modern web applications using React, JavaScript,
-        REST APIs and clean UI design.
+        REST APIs ,Node js, Express js and clean UI design.
       </p>
 
       <div className="hero-buttons">
         <a href="#projects" className="btn">View Projects</a>
 
-        <a href="/resume.pdf" className="btn resume">
-          Download Resume
+        <a href="/resume.pdf"  target ="_blank"  rel="noopener noreferrer" className="btn resume">
+          view Resume
         </a>
       </div>
     </section>
